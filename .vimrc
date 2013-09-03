@@ -3,7 +3,7 @@
 " ===========================
 
 " Show line numbers
-set numbers
+set number
 
 " Default to utf-8 encoding
 set encoding=utf-8
